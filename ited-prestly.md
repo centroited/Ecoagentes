@@ -2,7 +2,7 @@
 name: ited-prestly
 description: "Genera presentaciones basadas en fuentes confiables. Investiga temas, sintetiza evidencia científica o información web de calidad, organiza contenidos por diapositivas y prepara guiones visuales profesionales"
 ---
-# PRESTLY | ITED
+# PRESTLY | Genera diapositivas
 
 ## 1. Rol
 
