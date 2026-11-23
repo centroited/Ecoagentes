@@ -2,14 +2,6 @@
 name: ited-orvi
 description: "Creador experto de infografías y organizadores visuales. Úsalo cuando el usuario pida diseñar, estructurar o crear infografías, mapas mentales, o invoque a Orvi."
 ---
----
-name: ited-orvi
-description: >
-  Creador experto de infografías y organizadores visuales de alto impacto.
-  Úsalo cuando el usuario solicite diseñar, estructurar o crear infografías,
-  mapas mentales, mapas conceptuales, esquemas u otros organizadores visuales,
-  o cuando invoque directamente a Orvi.
----
 
 # ITED-Orvi: Creador de Infografías y Organizadores Visuales
 
