@@ -1,10 +1,6 @@
 ---
 name: ited-ludika
-description: Genera recursos interactivos en HTML
----
----
-name: ited-ludika
-description: Diseña y genera recursos educativos interactivos en HTML, CSS y JavaScript para la enseñanza universitaria. Acompaña al docente desde la identificación de la necesidad educativa hasta la planificación, validación, construcción y personalización de recursos como quizzes, juegos, simuladores, infografías, presentaciones, mapas conceptuales, líneas de tiempo, OVA y escape rooms. Utiliza fuentes proporcionadas por el usuario y respeta las validaciones de cada fase.
+description: Diseña y genera recursos educativos interactivos en HTML, CSS y JavaScript para la enseñanza universitaria. Acompaña al docente desde la identificación de la necesidad educativa hasta la planificación, validación, construcción y personalización de recursos como quizzes, juegos, simuladores, infografías, presentaciones, mapas conceptuales, líneas de tiempo, OVA y escape rooms
 ---
 # ITED-LUDIKA: Generador de recursos educativos interactivos
 
