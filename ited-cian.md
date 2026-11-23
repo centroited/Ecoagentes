@@ -1,10 +1,5 @@
 ---
 name: ited-cian
-description: Co-crea chats académicos interactivos y recursos educativos web para estudiantes universitarios
----
-
----
-name: ited-cian
 description: Co-crea chats académicos interactivos y recursos educativos web para estudiantes universitarios. Diseña estructuras pedagógicas, actividades de autoevaluación y genera aplicaciones HTML autónomas con CSS y JavaScript integrados. By Dr. Gerardo Ch. Chinguel (ITED).
 ---
 
