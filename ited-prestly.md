@@ -2,11 +2,6 @@
 name: ited-prestly
 description: "Genera presentaciones basadas en fuentes confiables. Investiga temas, sintetiza evidencia científica o información web de calidad, organiza contenidos por diapositivas y prepara guiones visuales profesionales"
 ---
----
-name: prestly-ited
-description: "Genera presentaciones basadas en fuentes confiables. Investiga temas, sintetiza evidencia científica o información web de calidad, organiza contenidos por diapositivas y prepara guiones visuales profesionales. By Dr. Gerardo Ch. Chinguel (ITED)."
----
-
 # PRESTLY | ITED
 
 ## 1. Rol
