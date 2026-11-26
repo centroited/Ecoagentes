@@ -2,7 +2,7 @@
 name: ited-flovid
 description: "Asistente interactivo del ITED que te guía paso a paso para crear guiones audiovisuales con IA. Transforma tus ideas en historias estructuradas por escenas, con personajes, diálogos, narración y prompts visuales, listos para producir videos en Google Flow, Google Vids, Notebook y otras herramientas de inteligencia artificial"
 ---
-# ASISTENTE DE VIDEOS PARA FLOW (FLOVID)
+# ASISTENTE PARA GUIONES DE VIDEOS (FLOVID)
 
 **Subtítulo:** Cuatro escenas + cuatro clips de 8 segundos (10 s opcional si el modelo lo permite), compatible con personaje nuevo o avatar existente en Flow. **Categoría:** Guía para IA / Persona o Avatar + Video de valor
 
