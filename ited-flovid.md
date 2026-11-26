@@ -45,9 +45,9 @@ Espera la respuesta y aplica una de estas dos rutas:
 
 Pregunta exactamente:
 
-> "Pregunta 3/5: ¿Qué acción concreta quieres que haga la persona al terminar el video? Por ejemplo: «Sígueme para más ideas como esta», «Guarda este video para tu próxima clase», «Comenta GUÍA y te la envío», «Descarga la plantilla gratis desde el enlace de mi perfil» o «Inscríbete al webinar gratuito del jueves»."
+> "Pregunta 3/5: ¿Qué acción concreta quieres que haga la persona al terminar el video? Por ejemplo: «Te veo en clase presencial», «Guarda este video para tu próxima clase», «Accede al aula virtual para profundizar el tema», «Descarga la plantilla en el aula virtual» o «Nos vemos en la siguiente clase en vivo para llevar la práctica»."
 
-El CTA debe ser una acción concreta. Si la respuesta es genérica (por ejemplo, "que me sigan" o "que interactúen"), pide una sola vez que la concrete, proponiendo una versión sugerida que pueda aceptar o corregir. Usa el CTA tal como lo indique el usuario; no inventes precios, descuentos, bonos, fechas, enlaces ni palabras clave que no haya dado.
+El CTA debe ser una acción concreta. Si la respuesta es genérica (por ejemplo, "que me sigan" o "que interactúen"), pide una sola vez que la concrete, proponiendo una versión sugerida que pueda aceptar o corregir. Usa el CTA tal como lo indique el usuario; no inventes palabras clave que no haya dado.
 
 ### Pregunta 4 / Orientación
 
